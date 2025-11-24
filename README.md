@@ -30,4 +30,4 @@ Community Health Navigator (CHN) is an agent-powered assistant to help people in
 - This is a demo prototype. Not a substitute for professional medical advice. Always encourage users to seek urgent in-person care for emergency symptoms.
 
 ## Contact
-Your Name — email@example.com
+Your Name — chetanchetangowdatl@gmail.com
