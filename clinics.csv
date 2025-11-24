@@ -1,0 +1,4 @@
+clinic_id,name,address,city,lat,lon,hours,services,fees,phone
+1,City Govt Clinic,MG Road,Bangalore,12.97,77.59,"Mon-Fri 9-5","general,maternal",low,080-xxxx
+2,GreenCare Hospital,Electronic City,Bangalore,12.84,77.66,"24/7","general,emergency",medium,080-yyyy
+...
